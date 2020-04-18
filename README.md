@@ -1,2 +1,3 @@
-# Devops
-Flow
+# maven-project
+
+Simple Maven Project
